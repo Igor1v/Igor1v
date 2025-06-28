@@ -1,4 +1,4 @@
-<div align="center">
+<div align=>
   <h3>Olá! Eu sou o Igor Vieira 👋</h3>
 </div>
 
