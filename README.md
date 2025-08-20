@@ -2,8 +2,8 @@
   <h3>Olá! Eu sou o Igor Vieira 👋</h3>
 </div>
 
-- 🔭 Hoje trabalho com Automações e Agentes de IA (LangChain)
-- 🌱 Estudando Machine Learning
+- 🔭 Hoje trabalho com Análise de Dados e Automações
+- 🌱 Estudando Machine Learning e Agentes de IA
 
 <div align="center">
 
